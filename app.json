@@ -1,0 +1,12 @@
+{
+  "name": "doc",
+  "displayName": "doc",
+  "expo": {
+    "name": "doc",
+    "slug": "doc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
